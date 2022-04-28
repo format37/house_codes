@@ -1,7 +1,7 @@
 # house codes web-server
 ### installation  
 - Download the dataset  
-- Prepare data data.csv  
+- Prepare data.csv  
 - Put it to server/
 ```
 sh compose.sh
