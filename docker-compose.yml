@@ -1,0 +1,9 @@
+version: '3.8'
+services:
+  house_codes:
+    restart: always
+    build: server
+    ports:
+      - 25567:25567
+    environment:
+      - PORT=25567
