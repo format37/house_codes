@@ -9,4 +9,4 @@ sh compose.sh
 ### test
 http://localhost:25567/test
 ### example
-http://localhost:25567/code?addr='aянгеляb c2d e2f'
+http://localhost:25567/code?addr=aянгеляbc2de2f
